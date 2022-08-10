@@ -19,7 +19,7 @@ const ProductDetails = () => {
         setProduct(res.data)
       })
       .catch(err => console.log(err))
-  }, [router.query.id])
+  }, [])
 
 
   return (
