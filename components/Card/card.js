@@ -17,7 +17,7 @@ const Cards = ({titulo, precio, categoria, descripcion}) => {
         <CardMedia
           component="img"
           height="140"
-          image=""
+          image="https://cn.i.cdn.ti-platform.com/content/343/showpage/historias-corrientes/es/regularshow-200x200.png"
           alt=""
         />
         <CardContent>
